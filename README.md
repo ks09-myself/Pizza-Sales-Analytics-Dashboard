@@ -467,6 +467,8 @@ The dashboard provides an interactive overview of sales performance, order trend
 
 ## Best / Worst Seller Analysis
 
+![Pizza Sales Dashboard](https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/Screenshots/Best-Worst-Seller.png)
+
 The second dashboard page analyzes the top and bottom-performing pizzas based on revenue, quantity sold, and number of orders.
 
 ---
@@ -480,11 +482,13 @@ Pizza-Sales-Analytics-Dashboard/
 │   ├── SQLQuery2.sql
 │   └── PIZZA_SALES_SQL_QUERIES.pdf
 │
+├── Screenshots/
+│   ├── Homepage_Visualization.png
+│   └── Best-Worst-Seller.png
+│
 ├── Pizza-Sales-Analytics-Dashboard.pbit
-├── Pizza-Sales-Visualization.png
 ├── pizza_sales.csv
 └── README.md
-
 
 # 📚 Skills Demonstrated
 
