@@ -130,7 +130,7 @@ The SQL analysis includes:
 
 https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/SQL/SQLQuery2.sql
 
-📑 [View SQL Analysis Documentation](SQL/PIZZA_SALES_SQL_QUERIES.pdf)
+📑 [View SQL Analysis Documentation](https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/SQL/PIZZA_SALES_SQL_QUERIES.pdf)
 
 ### Overall Performance
 
