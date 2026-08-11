@@ -10,7 +10,7 @@ The project demonstrates how raw transactional sales data can be analyzed using 
 
 The ‘Pizza Sales Analytics’ project analyzes transactional pizza sales data from 2015.
 
-The project uses ‘SQL’  to perform data analysis and calculate key business metrics, followed by ‘Power BI’ to create an interactive dashboard for visual analysis.
+The project uses ‘SQL Server’  to perform data analysis and calculate key business metrics, followed by ‘Power BI’ to create an interactive dashboard for visual analysis.
 
 The analysis focuses on:
 
@@ -107,7 +107,7 @@ The data covers pizza sales from **January 2015 to December 2015**.
 
 ### Data File
 
-📄 [View pizza_sales](https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/pizza_sales.csv)
+📄 [View Dataset](https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/pizza_sales.csv)
 
 ---
 
@@ -135,7 +135,7 @@ The SQL analysis includes:
 ### Overall Performance
 
 - Total Revenue
-- Average Revenue per Order
+- Average Order Value
 - Total Quantity Sold
 - Total Orders
 - Average Pizzas per Order
@@ -490,8 +490,11 @@ Pizza-Sales-Analytics-Dashboard/
 ├── pizza_sales.csv
 └── README.md
 
+```
+
 # 📚 Skills Demonstrated
 
+```text
 - SQL
 - SQL Server
 - Power BI
