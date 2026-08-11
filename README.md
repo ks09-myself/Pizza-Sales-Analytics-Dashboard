@@ -107,7 +107,7 @@ The data covers pizza sales from **January 2015 to December 2015**.
 
 ### Data File
 
-`pizza_sales.csv`
+[pizza_sales](`https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/pizza_sales.csv`)
 
 ---
 
@@ -478,10 +478,11 @@ Pizza-Sales-Analytics-Dashboard/
 │
 ├── SQL/
 │   ├── SQLQuery2.sql
-│   └── PIZAA_SALES_SQL_QUERIES.pdf
+│   └── PIZZA_SALES_SQL_QUERIES.pdf
 │
 ├── Pizza-Sales-Analytics-Dashboard.pbit
 ├── Pizza-Sales-Visualization.png
+├── pizza_sales.csv
 └── README.md
 
 
