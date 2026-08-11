@@ -1,6 +1,6 @@
 Select * from pizza_sales
 Select SUM(total_price) as Total_Revenue from pizza_sales
-SELECT AVG(total_price) as Average_Order_Value from pizza_sales
+SELECT SUM(total_price) / COUNT(DISTINCT order_id) as Average_Order_Value from pizza_sales
 SELECT SUM(total_price) / COUNT(DISTINCT order_id) as Average_Revenue_Per_Order from pizza_sales
 SELECT SUM(quantity) as Total_Quantity_Sold from pizza_sales
 SELECT COUNT(DISTINCT order_id) as Total_Orders from pizza_sales
