@@ -456,26 +456,50 @@ The Bottom 5 analysis can help management determine whether low-performing pizza
 
 ---
 
-# 🔄 Project Workflow
 
-The project followed an end-to-end data analytics workflow:
+# 📸 Dashboard Preview
+
+## Sales Overview
+
+![Pizza Sales Dashboard](Pizza-Sales-Visualization.png)
+
+The dashboard provides an interactive overview of sales performance, order trends, pizza category performance, pizza size distribution, and key business KPIs.
+
+## Best / Worst Seller Analysis
+
+The second dashboard page analyzes the top and bottom-performing pizzas based on revenue, quantity sold, and number of orders.
+
+---
+
+# 📁 Project Structure
 
 ```text
-              Raw Pizza Sales Data
-                       ↓
-                  Data Exploration
-                       ↓
-                  SQL Analysis
-                       ↓
-              KPI & Trend Analysis
-                       ↓
-              Data Transformation
-                       ↓
-                Power BI / DAX
-                       ↓
-             Interactive Dashboard
-                       ↓
-              Business Insights
-                       ↓
-            Business Recommendations
+Pizza-Sales-Analytics-Dashboard/
+│
+├── SQL/
+│   ├── SQLQuery2.sql
+│   └── PIZAA_SALES_SQL_QUERIES.pdf
+│
+├── Pizza-Sales-Analytics-Dashboard.pbit
+├── Pizza-Sales-Visualization.png
+└── README.md
 
+
+# 📚 Skills Demonstrated
+
+- SQL
+- SQL Server
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning & Transformation
+- Data Analysis
+- Data Modeling
+- KPI Development
+- Data Visualization
+- Sales Analysis
+- Trend Analysis
+- Product Performance Analysis
+- Business Intelligence
+- Business Insights
+- Data-Driven Decision Making
