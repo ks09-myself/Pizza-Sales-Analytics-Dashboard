@@ -461,7 +461,7 @@ The Bottom 5 analysis can help management determine whether low-performing pizza
 
 ## Sales Overview
 
-![Pizza Sales Dashboard](Pizza-Sales-Visualization.png)
+![Pizza Sales Dashboard](https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/Pizza-Sales-Visualization.png)
 
 The dashboard provides an interactive overview of sales performance, order trends, pizza category performance, pizza size distribution, and key business KPIs.
 
