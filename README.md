@@ -128,7 +128,7 @@ The SQL analysis includes:
 - Bottom 5 pizzas by number of orders
 - Total pizzas sold by category
 
-📄 [View SQL Queries](SQL/SQLQuery2.sql)
+📄 [View SQL Queries](https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/SQL/SQLQuery2.sql)
 
 📑 [View SQL Analysis Documentation](https://github.com/ks09-myself/Pizza-Sales-Analytics-Dashboard/blob/main/SQL/PIZZA_SALES_SQL_QUERIES.pdf)
 
